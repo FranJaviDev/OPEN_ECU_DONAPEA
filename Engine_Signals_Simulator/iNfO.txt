@@ -1,0 +1,5 @@
+
+Mediante éste pequeño programa simulamos las señales del CMPS (Sensor de posición del árbol de levas) y del 
+CKPS (Sensor de posición del cigüeñal), que obtenidríamos en un motor GSI, para depurar el programa.
+
+
