@@ -9,10 +9,11 @@ las posibilidades para facilitar la asimilación por parte de los alumnos, de co
 
 He decidio rediseñar todo el hardware y el software, para desarrollar una unidad de control para un motor inyección de 4 cilidros.
 
-El objetivo es ir incorporando diferentes estrategias de control de motor en función de que se estudien, así como posibilitar 
+El objetivo es ir incorporando diferentes estrategias de control de motor en función de que se impartan, así como posibilitar 
 la adaptación para trabajar con diferentes combustibles como GLP, GNC ó Hidrógeno. 
 
-Facilitando así la asimilación de conceptos expuestos tanto en la asigntura de motores como de vehículos híbridos.
+De éste modo se facilita la asimilación de conceptos expuestos, tanto en la asigntura de motores como en la asignatura de vehículos 
+híbridos.
 
 Finalmente, posibilitará el marco de desarrollo sobre el cual los alumnos podrán ir desarrollando mejoras mediante trabajos de fin de
 ciclo.
